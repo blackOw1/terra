@@ -19,7 +19,14 @@
     "baseUrl": "src",
     "paths": {
       "assets/*": ["assets"],
-      "components/*": ["components"]
+      "components/*": ["components"],
+      "containers/*": ["containers"],
+      "data/*": ["data"],
+      "layouts/*": ["layouts"],
+      "models/*": ["models"],
+      "pages/*": ["pages"],
+      "services/*": ["services"],
+      "utilities/*": ["utilities"]
     }
   },
   "include": ["src"],
